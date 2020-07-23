@@ -23,8 +23,6 @@ These are things that I think every Programmer should check out:
 - [ReasonML](https://reasonml.github.io/): Awsome compile to JS/native language built on OCaml's compiler.
 - [Elm Lang](elm-lang.org): No runtime exceptions? Enforcing [semantic](semver.org) versioning? Friendly Complier Messages? Yes Please!
 - [Prolog](swi-prolog.org): This one will _bend your mind!_. 
-- [JavaScript](https://www.javascript.com/): It's everywhere, and it can be really good so long as you _do not_ use inheritance or any sort in it.
-    - [React.js](https://facebook.github.io/react/) This is the best framework for JavaScript hands down. Far simpler than Angular and far easier to test then just about anything.
 - [Go](golang.com): Perhaps one of the best Languages focused on _less_ features. Great concurrency. And `go fmt` is genius.
 
 # Books
